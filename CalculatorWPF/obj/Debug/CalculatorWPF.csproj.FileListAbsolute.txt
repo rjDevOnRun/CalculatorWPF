@@ -1,0 +1,16 @@
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csprojResolveAssemblyReference.cache
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\MainWindow.g.cs
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\App.g.cs
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\MainWindow.baml
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.Cache
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\bin\Debug\Microsoft.Windows.Shell.dll
+D:\DEVELOPMENT\Visual_C\CalculatorWPF\CalculatorWPF\bin\Debug\Microsoft.Windows.Shell.pdb
